@@ -30,20 +30,20 @@ Le script demande le nom du projet, ainsi que si l'on souhaite ou pas intégrer 
 
 Le fichier index.html ressemble à ça : 
 
-    `````html
-    <!DOCTYPE html>
-    <html>
-        <head>
-    		<meta charset='utf-8' />
-    		<title>backboneTest</title>
-    		<link rel='stylesheet' href='assets/css/bootstrap.css' />
-    	</head>
-    	<body>
-    
-    	</body>
-    	<script src='assets/js/libs/jquery-latest.min.js'></script>
-    	<script src='assets/js/libs/underscore-min.js'></script>
-    	<script src='assets/js/libs/backbone-min.js'></script>
-    	<script src='assets/js/libs/bootstrap.min.js'></script>
-    </html>
-	`````
+``` html
+<!DOCTYPE html>
+<html>
+<head>
+    	<meta charset='utf-8' />
+    	<title>backboneTest</title>
+    	<link rel='stylesheet' href='assets/css/bootstrap.css' />
+    </head>
+    <body>
+
+    </body>
+    <script src='assets/js/libs/jquery-latest.min.js'></script>
+    <script src='assets/js/libs/underscore-min.js'></script>
+    <script src='assets/js/libs/backbone-min.js'></script>
+    <script src='assets/js/libs/bootstrap.min.js'></script>
+</html>
+```
